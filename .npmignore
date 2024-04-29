@@ -1,0 +1,25 @@
+# Carpeta de dependencias
+node_modules/
+
+# Archivos de configuración de entorno
+.env
+
+# Sistema de control de versiones
+.git/
+
+# Carpetas de logs
+logs
+*.log
+
+# Directorios de test
+__tests__
+/tests/
+
+# Archivos y carpetas de configuración de IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Carpetas de documentación
+/docs/
+
